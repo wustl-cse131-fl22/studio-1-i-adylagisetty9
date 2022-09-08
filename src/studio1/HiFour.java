@@ -11,12 +11,16 @@ public class HiFour {
 		Scanner in = new Scanner(System.in);
 		System.out.print("Enter value for arg 0: ");
 		String s0 = in.nextLine();
+		System.out.print(s0);
 		System.out.print("Enter value for arg 1: ");
 		String s1 = in.nextLine();
+		System.out.print(s1);
 		System.out.print("Enter value for arg 2: ");
 		String s2 = in.nextLine();
+		System.out.print(s2);
 		System.out.print("Enter value for arg 3: ");
 		String s3 = in.nextLine();
+		System.out.print(s3);
 		//
 		// Say hello to the names in s0 through s3.
 		//
